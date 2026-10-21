@@ -144,11 +144,59 @@ Qwen Image 3.0 · 文生图 · 2K · 1:1
 
 在 Beatra 上生成 · 任务 task_mcp_fde63ad38a445a53a0722db22d76c2c373a98e7c
 
+### 6. 苇岸茶饮价目板
+
+一块咖啡馆价目板，展示 Qwen Image 3.0 用三种字号放上中文和英文。
+
+<p align="center"><img src="assets/q31.webp" width="800" alt="胡桃木框里的暗绿色价目板，字是苇岸茶饮价目、REEDBANK、云雾 CLOUD、桂花 OSMANTHUS 和焙茶 HOJICHA。由 Beatra AI 生成。"></p>
+
+*胡桃木框里的暗绿色价目板，字是苇岸茶饮价目、REEDBANK、云雾 CLOUD、桂花 OSMANTHUS 和焙茶 HOJICHA。由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0 做一块竖的咖啡馆价目板，胡桃木框。字只有苇岸茶饮价目、REEDBANK、云雾 CLOUD、桂花 OSMANTHUS 和焙茶 HOJICHA。
+```
+
+提示词：
+
+```text
+Photoreal wooden cafe menu board, dark walnut frame, cream painted lettering on a slate-green board, photographed straight-on, even shop light. Exact text only, perfectly spelled, no extra letters, no prices, no logos, no watermark: large cream serif at the top 苇岸茶饮价目, directly under it in smaller cream sans-serif capitals REEDBANK, then three drink lines in a smaller size with Chinese then English on the same line, 云雾 CLOUD, 桂花 OSMANTHUS, 焙茶 HOJICHA. No other words or numbers.
+```
+
+Qwen Image 3.0 · 文生图 · 2K · 3:4
+
+在 Beatra 上生成 · 任务 task_mcp_c927b4b70919f32fb511070101565a7937dd38bc
+
+### 7. 河灯夜集票根
+
+一张竖票根，展示 Qwen Image 3.0 把中文标题、英文副标题和日期叠在一起。
+
+<p align="center"><img src="assets/q32.webp" width="800" alt="一张奶油色票根，上面有纸灯笼线描，以及河灯夜集、RIVER LANTERN 和 08 OCT。由 Beatra AI 生成。"></p>
+
+*一张奶油色票根，上面有纸灯笼线描，以及河灯夜集、RIVER LANTERN 和 08 OCT。由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0 做一张竖的奶油色票根，上面一盏纸灯笼线描。字只有河灯夜集、RIVER LANTERN 和 08 OCT。
+```
+
+提示词：
+
+```text
+Vertical event ticket stub, cream paper, perforated top edge, a small simple drawing of one paper lantern, lots of empty margin. Exact text only, perfectly spelled, no extra letters: large bold black serif at the top 河灯夜集, subtitle under it in smaller sans-serif RIVER LANTERN, date at the bottom in small tracking 08 OCT. No other words, numbers, logos, or watermarks.
+```
+
+Qwen Image 3.0 · 文生图 · 2K · 3:4
+
+在 Beatra 上生成 · 任务 task_mcp_132e3a0b9aad13a093b2f34af8e4fb2127317a70
+
 <a id="ecommerce"></a>
 
 ## 商品图与场景
 
-### 6. 冬夜的手冲咖啡
+### 8. 冬夜的手冲咖啡
 
 一张冬夜手冲静物，展示 Qwen Image 3.0 把商品照片的季节改成冬夜。
 
@@ -172,7 +220,7 @@ Qwen Image 3.0 · 图片编辑 · 616×458
 
 在 Beatra 上生成 · 任务 task_mcp_9e6bd9541f728564e941e08748f6a7da4ef5dacc
 
-### 7. Siltjar 辣椒酱瓶
+### 9. Siltjar 辣椒酱瓶
 
 一张酱瓶的商品照片，展示 Qwen Image 3.0 画出虚构商品和只有一个词的标签。
 
@@ -196,7 +244,7 @@ Qwen Image 3.0 · 文生图 · 1K · 1:1
 
 在 Beatra 上生成 · 任务 task_mcp_311c592f739e31aa31e2d5bed3b42850b7a6ad4b
 
-### 8. 燕麦色帆布鞋
+### 10. 燕麦色帆布鞋
 
 一张目录式的帆布鞋照片，展示 Qwen Image 3.0 做没有标志的商品图。
 
@@ -220,7 +268,7 @@ Qwen Image 3.0 · 文生图 · 1K · 1:1
 
 在 Beatra 上生成 · 任务 task_mcp_41fa7eafe76d178f9fdac8d5420e62dd78587068
 
-### 9. 橡木桌上的黄铜蜡烛罐
+### 11. 橡木桌上的黄铜蜡烛罐
 
 一张桌面蜡烛静物，展示 Qwen Image 3.0 画出一个没有标签的简单商品外形。
 
@@ -244,7 +292,7 @@ Qwen Image 3.0 · 文生图 · 1K · 4:3
 
 在 Beatra 上生成 · 任务 task_mcp_341f4873b3d3cb190bc4a82588df5b1db8bc2312
 
-### 10. 燕麦色亚麻包和一只梨
+### 12. 燕麦色亚麻包和一只梨
 
 一张生活场景里的托特包，展示 Qwen Image 3.0 把一件商品放进安静的房间。
 
@@ -268,11 +316,59 @@ Qwen Image 3.0 · 文生图 · 1K · 3:4
 
 在 Beatra 上生成 · 任务 task_mcp_62d074025fb6e065bd7b0dd4d9aa80f40e72ca97
 
+### 13. 湿石上的 SOLUM 精华瓶
+
+湿石上的一只精华瓶，展示 Qwen Image 3.0 画出一个虚构商品，标签是 SOLUM。
+
+<p align="center"><img src="assets/q33.webp" width="800" alt="一只磨砂玻璃精华瓶，白色泵头，标签是 SOLUM，立在湿的深色石头上。由 Beatra AI 生成。"></p>
+
+*一只磨砂玻璃精华瓶，白色泵头，标签是 SOLUM，立在湿的深色石头上。由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0 拍一只虚构的磨砂玻璃精华瓶，白色泵头，立在深色湿石头的浅水里。标签只有 SOLUM，不要连字符。
+```
+
+提示词：
+
+```text
+Photoreal commercial studio product photo of one fictional frosted-glass serum bottle, square shoulders, white pump, standing in a shallow pool of clear water on dark wet stone, gentle circular ripples around the base, soft high-key beauty lighting, generous empty margin on all four sides, subject centered. A small cream square label on the bottle shows only the single word SOLUM in black sans-serif capitals as five letters together, no hyphen, no space, no extra marks, and no other letters. No extra bottles, no hands, no logos, no watermark.
+```
+
+Qwen Image 3.0 · 文生图 · 2K · 16:9
+
+在 Beatra 上生成 · 任务 task_mcp_747899488daf1c608e01a3103a86f767cebd0a01
+
+### 14. 石灰石上的鼠尾草绿耳机
+
+一张鼠尾草绿耳机的目录照片，展示 Qwen Image 3.0 做出没有标志的商品图。
+
+<p align="center"><img src="assets/q34.webp" width="800" alt="鼠尾草绿的头戴式耳机，钢质头带，燕麦色绒面耳垫，放在一块石灰石上。由 Beatra AI 生成。"></p>
+
+*鼠尾草绿的头戴式耳机，钢质头带，燕麦色绒面耳垫，放在一块石灰石上。由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0 拍一副虚构的鼠尾草绿头戴式耳机，钢质头带，燕麦色绒面耳垫，放在浅色石灰石上。不要标志，也不要文字。
+```
+
+提示词：
+
+```text
+Photoreal catalog photo of one fictional pair of closed-back over-ear headphones, matte sage ear cups, a thin brushed-steel headband, oat suede ear pads, no logo and no text anywhere on the product. Three-quarter view, centered on a pale limestone slab, soft studio light, generous empty margin on all four sides. No people, no hands, no extra objects, no watermark.
+```
+
+Qwen Image 3.0 · 文生图 · 2K · 16:9
+
+在 Beatra 上生成 · 任务 task_mcp_30b180b44416554aedc800ae7ea54ded5091b344
+
 <a id="editing"></a>
 
 ## 局部编辑与换背景
 
-### 11. Siltjar 瓶子换了台面
+### 15. Siltjar 瓶子换了台面
 
 一张前后对比，展示 Qwen Image 3.0 换掉瓶子的台面，并留下 SILTJAR 标签。
 
@@ -296,7 +392,7 @@ Qwen Image 3.0 · 图片编辑 · 1K · 1:1
 
 在 Beatra 上生成 · 任务 task_mcp_311c592f739e31aa31e2d5bed3b42850b7a6ad4b, task_mcp_f727724c879a642a71c11f8101a5ad523d00618d
 
-### 12. 鞋面改成了靛蓝色
+### 16. 鞋面改成了靛蓝色
 
 一张前后对比，展示 Qwen Image 3.0 只给帆布鞋的鞋面重新上色。
 
@@ -320,7 +416,7 @@ Qwen Image 3.0 · 图片编辑 · 1K · 1:1
 
 在 Beatra 上生成 · 任务 task_mcp_41fa7eafe76d178f9fdac8d5420e62dd78587068, task_mcp_bb1110e3cbe7370acc461410a3b7c9274a011e13
 
-### 13. 托特包换到雨中的门口
+### 17. 托特包换到雨中的门口
 
 一张前后对比，展示 Qwen Image 3.0 把同一只托特包从白房间挪到下雨的门口。
 
@@ -344,11 +440,83 @@ Qwen Image 3.0 · 图片编辑 · 1K · 3:4
 
 在 Beatra 上生成 · 任务 task_mcp_62d074025fb6e065bd7b0dd4d9aa80f40e72ca97, task_mcp_1cf17a60d29c226d916229738e6b7dff99576ed7
 
+### 18. 桌上拿掉了茶杯和笔
+
+一张前后对比，展示 Qwen Image 3.0 从桌面照片里去掉茶杯和笔。
+
+<p align="center"><img src="assets/q35.webp" width="800" alt="左边的胡桃木桌上有打开的笔记本、黄铜剪刀、一只奶油色茶杯和两支黑笔。右边茶杯和笔没了，笔记本和剪刀还在。输入的照片也是由 Beatra AI 生成。"></p>
+
+*左边的胡桃木桌上有打开的笔记本、黄铜剪刀、一只奶油色茶杯和两支黑笔。右边茶杯和笔没了，笔记本和剪刀还在。输入的照片也是由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0 编辑这张书桌照片：去掉奶油色茶杯和两支黑笔。胡桃木桌、打开的笔记本、黄铜剪刀和机位保持不变。
+```
+
+提示词：
+
+```text
+Keep the walnut desk, the open blank notebook, the brass scissors, the window light, and the same camera angle. Remove the cream ceramic cup and both black pens completely. Do not add new objects. No text, no logos, no watermark, no hands.
+```
+
+Qwen Image 3.0 · 图片编辑 · 2K · 4:3
+
+在 Beatra 上生成 · 任务 task_mcp_2e17ff31a1137a5896558ca57a247d1bdabf6198, task_mcp_e8eff740f4302717e414d1361b4f3faa077dab56
+
+### 19. 正午小巷改成傍晚薄雪
+
+一张前后对比，展示 Qwen Image 3.0 把夏日小巷改成傍晚薄雪，建筑还在。
+
+<p align="center"><img src="assets/q36.webp" width="800" alt="左边是明亮夏日正午的小巷。右边是同一条小巷的傍晚，路边和人行道有薄雪，窗户和路灯亮了，窗台花箱仍有绿叶。输入的照片也是由 Beatra AI 生成。"></p>
+
+*左边是明亮夏日正午的小巷。右边是同一条小巷的傍晚，路边和人行道有薄雪，窗户和路灯亮了，窗台花箱仍有绿叶。输入的照片也是由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0 编辑这张小巷照片：建筑、木窗板、门、自行车和机位保持不变。改成傍晚，路边和人行道有薄雪，窗户和路灯亮着。
+```
+
+提示词：
+
+```text
+Keep the exact same cobblestone lane, the same plaster buildings, shutters, doors, bicycle, and camera position. Change only the season and time of day to a snowy evening: blue hour, warm window light, a light covering of snow on the street and ledges, falling snow. No people, no cars, no readable signs, no letters, no logos, no watermark.
+```
+
+Qwen Image 3.0 · 图片编辑 · 2K · 16:9
+
+在 Beatra 上生成 · 任务 task_mcp_7b7da46f37b24ab2619dc76ac34abddffdd2abc7, task_mcp_a36f684023317a21916a2df525593b22e69b611c
+
+### 20. 店招改成南窗纸店
+
+一张前后对比，展示 Qwen Image 3.0 换掉店招上的四个字。
+
+<p align="center"><img src="assets/q37.webp" width="800" alt="左边的挂牌是青石书屋。右边同一家店的挂牌改成了南窗纸店。门、窗和蕨类盆栽不变。输入的照片也是由 Beatra AI 生成。"></p>
+
+*左边的挂牌是青石书屋。右边同一家店的挂牌改成了南窗纸店。门、窗和蕨类盆栽不变。输入的照片也是由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0 编辑这张店面：把挂牌上的四个字从青石书屋改成南窗纸店。门、窗、蕨类盆栽和机位保持不变。
+```
+
+提示词：
+
+```text
+Keep the dark green wooden storefront, the hanging wooden sign shape, the closed door, the potted fern, and the same camera. Change only the four cream characters on the sign from 青石书屋 to exactly 南窗纸店, perfectly spelled, and no other letters. No people, no logos, no watermark, no extra text.
+```
+
+Qwen Image 3.0 · 图片编辑 · 2K · 3:4
+
+在 Beatra 上生成 · 任务 task_mcp_047d4b47b255ce306027120018abdd0150ad19af, task_mcp_f99ea4c0f8f6408eb3c78d66ec27e7afcc0174e9
+
 <a id="multi-reference"></a>
 
 ## 多张参考合成
 
-### 14. 酱瓶和蜡烛放在一起
+### 21. 酱瓶和蜡烛放在一起
 
 一张静物，展示 Qwen Image 3.0 把两张参考图里的酱瓶和蜡烛合成到一起。
 
@@ -372,7 +540,7 @@ Qwen Image 3.0 · 图生图 · 1K · 4:3
 
 在 Beatra 上生成 · 任务 task_mcp_0fefd99194c4683cedb0377d60ab5d3d3d473b03
 
-### 15. 雨衣狐狸站在面包店前
+### 22. 雨衣狐狸站在面包店前
 
 一张插画，展示 Qwen Image 3.0 把雨衣狐狸放到第二张参考图里的面包店前。
 
@@ -396,7 +564,7 @@ Qwen Image 3.0 · 图生图 · 1K · 16:9
 
 在 Beatra 上生成 · 任务 task_mcp_7957b46f4d4f13057b8c97786dd8a3382aeab804
 
-### 16. 帆布鞋和托特包同框
+### 23. 帆布鞋和托特包同框
 
 一张目录照片，展示 Qwen Image 3.0 把两张参考图里的鞋和包放进同一个场景。
 
@@ -420,11 +588,59 @@ Qwen Image 3.0 · 图生图 · 1K · 1:1
 
 在 Beatra 上生成 · 任务 task_mcp_d02521534c3ce35bd12feb25516421ec17716239
 
+### 24. 穿上锈红色大衣的女性
+
+一张棚拍肖像，展示 Qwen Image 3.0 给第一张参考里的女性穿上第二张参考里的大衣。
+
+<p align="center"><img src="assets/q38.webp" width="800" alt="短黑发、黑色高领的女性穿着那件锈红色羊毛大衣。参考图也是由 Beatra AI 生成。"></p>
+
+*短黑发、黑色高领的女性穿着那件锈红色羊毛大衣。参考图也是由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0，拿人物照片和锈红色大衣的照片，让她穿着这件没扣上的大衣，保留她的脸、短黑发和黑色高领。
+```
+
+提示词：
+
+```text
+A photoreal studio portrait of the woman from the first image wearing the rust wool overcoat from the second image. Keep her face, short black hair, and black turtleneck recognizable. The coat is on her, unbuttoned, same rust color and lapels. Plain warm-grey studio, even soft light, three-quarter view, hands visible and anatomically correct. No text, no logos, no watermark.
+```
+
+Qwen Image 3.0 · 图生图 · 2K · 3:4
+
+在 Beatra 上生成 · 任务 task_mcp_22573ba199b5621c53651ace43f0ccfef57b6ee1, task_mcp_c42d709ecb959be103adb8c75ecf40acccf04181, task_mcp_f7231ab9c8f991dfab2029c068d5a0d780610b0c
+
+### 25. 厨房台面上的黑壶
+
+一张厨房台面，展示 Qwen Image 3.0 把第一张参考里的壶放到第二张参考的台面上。
+
+<p align="center"><img src="assets/q39.webp" width="800" alt="哑光黑鹅颈壶放在有阳光的白瓷砖台面上，旁边是木砧板。参考图也是由 Beatra AI 生成。"></p>
+
+*哑光黑鹅颈壶放在有阳光的白瓷砖台面上，旁边是木砧板。参考图也是由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0，拿这把壶的照片和这间厨房的照片，把哑光黑鹅颈壶放到白瓷砖台面上，靠近木砧板。
+```
+
+提示词：
+
+```text
+Place the matte-black gooseneck kettle from the first image on the sunlit white-tile kitchen counter from the second image, near the wood cutting board. Keep the kettle's round body, long curved spout, and wood handle. Keep the window, sheer curtains, and morning light. No people, no logos, no readable text, no watermark.
+```
+
+Qwen Image 3.0 · 图生图 · 2K · 16:9
+
+在 Beatra 上生成 · 任务 task_mcp_d362b0190e4253225116f164a93d479113c81f01, task_mcp_b9f89ed177cabe7341189d1e19edfee43a8536a0, task_mcp_1407f1dbee504b8160d8a0fb1f84bd15cea1101d
+
 <a id="illustration"></a>
 
 ## 插画与风格
 
-### 17. 平面风格的在家办公
+### 26. 平面风格的在家办公
 
 一张平面书桌插画，展示 Qwen Image 3.0 Pro 画出一个没有文字的简单场景。
 
@@ -448,7 +664,7 @@ Qwen Image 3.0 Pro · 文生图 · 358×421
 
 在 Beatra 上生成 · 任务 task_mcp_38f1a34bf6fc493f7b65440ecef6925365d29b83
 
-### 18. 暴风雨中的灯塔
+### 27. 暴风雨中的灯塔
 
 一张灯塔概念画面，展示 Qwen Image 3.0 Pro 画一幅没有人的电影感风景。
 
@@ -472,7 +688,7 @@ Qwen Image 3.0 Pro · 文生图 · 421×421
 
 在 Beatra 上生成 · 任务 task_mcp_af531ac21ea594fd04515e5c14f314ba434cf716
 
-### 19. 平面面包店门面
+### 28. 平面面包店门面
 
 一家平面面包店，展示 Qwen Image 3.0 用有限的颜色画一张没有文字的插画。
 
@@ -496,7 +712,7 @@ Qwen Image 3.0 · 文生图 · 1K · 16:9
 
 在 Beatra 上生成 · 任务 task_mcp_5b98f2ff025529cf8e05e8c226daa12afbfce7a7
 
-### 20. 水粉夜行列车
+### 29. 水粉夜行列车
 
 一列水粉夜车，展示 Qwen Image 3.0 用水粉画这片风景。
 
@@ -520,7 +736,7 @@ Qwen Image 3.0 · 文生图 · 1K · 16:9
 
 在 Beatra 上生成 · 任务 task_mcp_352beec571cea8b1cdb58f6633f0acb9a6418ff8
 
-### 21. 彩铅雨衣狐狸
+### 30. 彩铅雨衣狐狸
 
 一只彩铅雨衣狐狸，展示 Qwen Image 3.0 画一个原创角色。
 
@@ -544,11 +760,35 @@ Qwen Image 3.0 · 文生图 · 1K · 1:1
 
 在 Beatra 上生成 · 任务 task_mcp_733218bdb6a7c5919f298dc0a4dba9650e049834
 
+### 31. 等距唱片店内景
+
+一张等距唱片店，展示 Qwen Image 3.0 用有限的颜色画一个没有可读文字的内景。
+
+<p align="center"><img src="assets/q40.webp" width="800" alt="等距的唱片店里有木柜台、黑胶箱、一盆植物和一扇天窗。封套是色块和简单几何形。由 Beatra AI 生成。"></p>
+
+*等距的唱片店里有木柜台、黑胶箱、一盆植物和一扇天窗。封套是色块和简单几何形。由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0 画一家等距唱片店：木柜台、黑胶箱、一盆植物、一扇天窗。封套只用纯色或简单几何形。不要字母。
+```
+
+提示词：
+
+```text
+Isometric illustration of a tiny fictional record-shop interior, limited flat colors. One wooden counter, wooden vinyl crates, a potted plant, a skylight, no people. Every album sleeve is a solid color or a simple geometric shape with no letters, no numbers, no logos, and no readable marks of any kind. Clean vector-like isometric, generous margin.
+```
+
+Qwen Image 3.0 · 文生图 · 2K · 1:1
+
+在 Beatra 上生成 · 任务 task_mcp_acaac2206d1b6265deae510ba885de52453ad466
+
 <a id="portraits"></a>
 
 ## 虚构人像
 
-### 22. 虚构讲解人的头肩照
+### 32. 虚构讲解人的头肩照
 
 一张棚拍半身像，展示 Qwen Image 3.0 Pro 画一位虚构讲解人，脸看起来自然。
 
@@ -572,7 +812,7 @@ Qwen Image 3.0 Pro · 文生图 · 616×829
 
 在 Beatra 上生成 · 任务 task_mcp_181a7bf4c51b51ae1271bc4d433b8d1fa0b8df4a
 
-### 23. 编辑后的咖啡馆肖像
+### 33. 编辑后的咖啡馆肖像
 
 一张近景肖像，展示 Qwen Image 3.0 的编辑把虚构脸上的塑料感收掉。
 
@@ -596,7 +836,7 @@ Qwen Image 3.0 · 图片编辑 · 618×824
 
 在 Beatra 上生成 · 任务 task_mcp_36cb6399c5ce443a72f54b7af67ccdb44f0a8509
 
-### 24. 虚构面包师的头肩照
+### 34. 虚构面包师的头肩照
 
 一张面包房肖像，展示 Qwen Image 3.0 画一位虚构男性的脸、眼睛和耳朵。
 
@@ -620,7 +860,7 @@ Qwen Image 3.0 · 文生图 · 1K · 3:4
 
 在 Beatra 上生成 · 任务 task_mcp_8de96b9bab4a153e27256b13bbd85807db73f963
 
-### 25. 虚构骑行者站在路上
+### 35. 虚构骑行者站在路上
 
 一张路上的肖像，展示 Qwen Image 3.0 画一位虚构骑行者和握把上的一只手。
 
@@ -644,11 +884,35 @@ Qwen Image 3.0 · 文生图 · 1K · 3:4
 
 在 Beatra 上生成 · 任务 task_mcp_b71e0d1eaf675f21f1d281f69271be4c381d85ce
 
+### 36. 窗边的虚构陶艺人
+
+一张陶艺工作室肖像，展示 Qwen Image 3.0 画一位坐在窗边的虚构年长女性。
+
+<p align="center"><img src="assets/q41.webp" width="800" alt="一位虚构的年长女性，银发，亚麻围裙，坐在陶艺工作室的陶轮旁边。由 Beatra AI 生成。"></p>
+
+*一位虚构的年长女性，银发，亚麻围裙，坐在陶艺工作室的陶轮旁边。由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Qwen Image 3.0 拍一位虚构的年长女性：银发盘起，炭灰衬衫外罩亚麻围裙，坐在工作室窗边的陶轮旁。不要文字。
+```
+
+提示词：
+
+```text
+Photoreal three-quarter portrait of a fictional woman in her early seventies, silver hair pinned up, clay-dusted linen apron over a charcoal shirt, sitting beside a pottery wheel near a north-facing studio window, pale daylight, lined natural skin, closed mouth, hands resting on her lap with clay under the nails, anatomically correct. Quiet pottery studio, shelves of unglazed bowls behind her, slightly out of focus. No text, no logos, no watermark.
+```
+
+Qwen Image 3.0 · 文生图 · 2K · 3:4
+
+在 Beatra 上生成 · 任务 task_mcp_9172f0aa9846821eda365d9ead249487c5c681ea
+
 <a id="infographics"></a>
 
 ## 信息图与图表
 
-### 26. 泡茶四步信息卡
+### 37. 泡茶四步信息卡
 
 一张四步泡茶卡，展示 Qwen Image 3.0 把双语标签和四个图标排成一行。
 
@@ -672,7 +936,7 @@ Qwen Image 3.0 · 文生图 · 2K · 16:9
 
 在 Beatra 上生成 · 任务 task_mcp_1f837487611da4da304c2d0a851e9b023a23562e
 
-### 27. 一周杯数的柱状图
+### 38. 一周杯数的柱状图
 
 一张五根柱子的图，展示 Qwen Image 3.0 放上确定的数字和星期标签。
 
@@ -696,7 +960,7 @@ Qwen Image 3.0 · 文生图 · 2K · 16:9
 
 在 Beatra 上生成 · 任务 task_mcp_63bf1dc9e44ba4061c53a28af507bb91cf582c27
 
-### 28. 蕨类养护三栏卡
+### 39. 蕨类养护三栏卡
 
 一张三栏养护卡，展示 Qwen Image 3.0 只留下标签，其余留白。
 
@@ -720,7 +984,7 @@ Qwen Image 3.0 · 文生图 · 2K · 16:9
 
 在 Beatra 上生成 · 任务 task_mcp_f2655d171c89420621e41849d0a73120a4d51468
 
-### 29. 花粉径示意图
+### 40. 花粉径示意图
 
 一张小路示意图，展示 Qwen Image 3.0 画一条带标签的路径，没有多余的字。
 

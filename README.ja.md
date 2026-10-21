@@ -144,11 +144,59 @@ Qwen Image 3.0 · テキストから画像 · 2K · 1:1
 
 Beatra で生成 · タスク task_mcp_fde63ad38a445a53a0722db22d76c2c373a98e7c
 
+### 6. Reedbank のカフェメニューボード
+
+カフェのメニューボードで、Qwen Image 3.0 が中国語と英語を三つの大きさで置いています。
+
+<p align="center"><img src="assets/q31.webp" width="800" alt="胡桃の枠に入った暗い緑のメニューボードに、苇岸茶饮价目、REEDBANK、云雾 CLOUD、桂花 OSMANTHUS、焙茶 HOJICHA。Beatra AI で生成。"></p>
+
+*胡桃の枠に入った暗い緑のメニューボードに、苇岸茶饮价目、REEDBANK、云雾 CLOUD、桂花 OSMANTHUS、焙茶 HOJICHA。Beatra AI で生成。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 で縦長のカフェのメニューボードを作って。胡桃の枠。文字は苇岸茶饮价目、REEDBANK、云雾 CLOUD、桂花 OSMANTHUS、焙茶 HOJICHA だけ。
+```
+
+プロンプト：
+
+```text
+Photoreal wooden cafe menu board, dark walnut frame, cream painted lettering on a slate-green board, photographed straight-on, even shop light. Exact text only, perfectly spelled, no extra letters, no prices, no logos, no watermark: large cream serif at the top 苇岸茶饮价目, directly under it in smaller cream sans-serif capitals REEDBANK, then three drink lines in a smaller size with Chinese then English on the same line, 云雾 CLOUD, 桂花 OSMANTHUS, 焙茶 HOJICHA. No other words or numbers.
+```
+
+Qwen Image 3.0 · テキストから画像 · 2K · 3:4
+
+Beatra で生成 · タスク task_mcp_c927b4b70919f32fb511070101565a7937dd38bc
+
+### 7. River Lantern の半券
+
+縦長の半券で、Qwen Image 3.0 が中国語の題、英語の副題、日付を重ねています。
+
+<p align="center"><img src="assets/q32.webp" width="800" alt="クリーム色の半券に、紙提灯の線画と河灯夜集、RIVER LANTERN、08 OCT。Beatra AI で生成。"></p>
+
+*クリーム色の半券に、紙提灯の線画と河灯夜集、RIVER LANTERN、08 OCT。Beatra AI で生成。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 で縦長のクリーム色の半券を作って。紙提灯の線画が一つ。文字は河灯夜集、RIVER LANTERN、08 OCT だけ。
+```
+
+プロンプト：
+
+```text
+Vertical event ticket stub, cream paper, perforated top edge, a small simple drawing of one paper lantern, lots of empty margin. Exact text only, perfectly spelled, no extra letters: large bold black serif at the top 河灯夜集, subtitle under it in smaller sans-serif RIVER LANTERN, date at the bottom in small tracking 08 OCT. No other words, numbers, logos, or watermarks.
+```
+
+Qwen Image 3.0 · テキストから画像 · 2K · 3:4
+
+Beatra で生成 · タスク task_mcp_132e3a0b9aad13a093b2f34af8e4fb2127317a70
+
 <a id="ecommerce"></a>
 
 ## 商品写真と場面
 
-### 6. 冬の夜のハンドドリップ
+### 8. 冬の夜のハンドドリップ
 
 冬の夜のハンドドリップの静物で、Qwen Image 3.0 が商品写真の季節を変えています。
 
@@ -172,7 +220,7 @@ Qwen Image 3.0 · 画像編集 · 616×458
 
 Beatra で生成 · タスク task_mcp_9e6bd9541f728564e941e08748f6a7da4ef5dacc
 
-### 7. Siltjar のホットソース瓶
+### 9. Siltjar のホットソース瓶
 
 ソース瓶の撮影で、Qwen Image 3.0 が架空の商品と一語だけのラベルを描いています。
 
@@ -196,7 +244,7 @@ Qwen Image 3.0 · テキストから画像 · 1K · 1:1
 
 Beatra で生成 · タスク task_mcp_311c592f739e31aa31e2d5bed3b42850b7a6ad4b
 
-### 8. オートミール色のスニーカー
+### 10. オートミール色のスニーカー
 
 カタログ風のスニーカー写真で、Qwen Image 3.0 がロゴのない商品写真を作っています。
 
@@ -220,7 +268,7 @@ Qwen Image 3.0 · テキストから画像 · 1K · 1:1
 
 Beatra で生成 · タスク task_mcp_41fa7eafe76d178f9fdac8d5420e62dd78587068
 
-### 9. オークテーブルの真鍮キャンドル缶
+### 11. オークテーブルの真鍮キャンドル缶
 
 卓上のキャンドル静物で、Qwen Image 3.0 がラベルのない単純な商品の形を保っています。
 
@@ -244,7 +292,7 @@ Qwen Image 3.0 · テキストから画像 · 1K · 4:3
 
 Beatra で生成 · タスク task_mcp_341f4873b3d3cb190bc4a82588df5b1db8bc2312
 
-### 10. オートミール色のリネントートと洋梨
+### 12. オートミール色のリネントートと洋梨
 
 生活場面のトートで、Qwen Image 3.0 が一つの商品を静かな部屋に置いています。
 
@@ -268,11 +316,59 @@ Qwen Image 3.0 · テキストから画像 · 1K · 3:4
 
 Beatra で生成 · タスク task_mcp_62d074025fb6e065bd7b0dd4d9aa80f40e72ca97
 
+### 13. 濡れた石の上の SOLUM の美容液瓶
+
+濡れた石の上の美容液の瓶で、Qwen Image 3.0 が架空の商品と SOLUM のラベルを描いています。
+
+<p align="center"><img src="assets/q33.webp" width="800" alt="すりガラスの美容液瓶、白いポンプ、ラベルは SOLUM。濡れた暗い石の上。Beatra AI で生成。"></p>
+
+*すりガラスの美容液瓶、白いポンプ、ラベルは SOLUM。濡れた暗い石の上。Beatra AI で生成。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 で架空のすりガラスの美容液の瓶を一つ。白いポンプ。暗い濡れた石の上の浅い水に立っている。ラベルは SOLUM だけ。ハイフンはなし。
+```
+
+プロンプト：
+
+```text
+Photoreal commercial studio product photo of one fictional frosted-glass serum bottle, square shoulders, white pump, standing in a shallow pool of clear water on dark wet stone, gentle circular ripples around the base, soft high-key beauty lighting, generous empty margin on all four sides, subject centered. A small cream square label on the bottle shows only the single word SOLUM in black sans-serif capitals as five letters together, no hyphen, no space, no extra marks, and no other letters. No extra bottles, no hands, no logos, no watermark.
+```
+
+Qwen Image 3.0 · テキストから画像 · 2K · 16:9
+
+Beatra で生成 · タスク task_mcp_747899488daf1c608e01a3103a86f767cebd0a01
+
+### 14. 石灰岩の上のセージグリーンのヘッドホン
+
+ヘッドホンのカタログ写真で、Qwen Image 3.0 がロゴのない商品写真を作っています。
+
+<p align="center"><img src="assets/q34.webp" width="800" alt="セージグリーンのオーバーイヤーヘッドホン、スチールのヘッドバンド、オートミール色のスエードのパッド。石灰岩の上。Beatra AI で生成。"></p>
+
+*セージグリーンのオーバーイヤーヘッドホン、スチールのヘッドバンド、オートミール色のスエードのパッド。石灰岩の上。Beatra AI で生成。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 で架空のセージグリーンのオーバーイヤーヘッドホンを一組。スチールのヘッドバンド、オートミール色のスエードのパッド。淡い石灰岩の上。ロゴも文字もなし。
+```
+
+プロンプト：
+
+```text
+Photoreal catalog photo of one fictional pair of closed-back over-ear headphones, matte sage ear cups, a thin brushed-steel headband, oat suede ear pads, no logo and no text anywhere on the product. Three-quarter view, centered on a pale limestone slab, soft studio light, generous empty margin on all four sides. No people, no hands, no extra objects, no watermark.
+```
+
+Qwen Image 3.0 · テキストから画像 · 2K · 16:9
+
+Beatra で生成 · タスク task_mcp_30b180b44416554aedc800ae7ea54ded5091b344
+
 <a id="editing"></a>
 
 ## 部分編集と背景の差し替え
 
-### 11. Siltjar の瓶、台を差し替え
+### 15. Siltjar の瓶、台を差し替え
 
 前後の比較で、Qwen Image 3.0 が瓶の台を替え、SILTJAR のラベルを残しています。
 
@@ -296,7 +392,7 @@ Qwen Image 3.0 · 画像編集 · 1K · 1:1
 
 Beatra で生成 · タスク task_mcp_311c592f739e31aa31e2d5bed3b42850b7a6ad4b, task_mcp_f727724c879a642a71c11f8101a5ad523d00618d
 
-### 12. アッパーを藍色に変更
+### 16. アッパーを藍色に変更
 
 前後の比較で、Qwen Image 3.0 がスニーカーのアッパーだけを塗り替えています。
 
@@ -320,7 +416,7 @@ Qwen Image 3.0 · 画像編集 · 1K · 1:1
 
 Beatra で生成 · タスク task_mcp_41fa7eafe76d178f9fdac8d5420e62dd78587068, task_mcp_bb1110e3cbe7370acc461410a3b7c9274a011e13
 
-### 13. トートを雨の入口へ
+### 17. トートを雨の入口へ
 
 前後の比較で、Qwen Image 3.0 が同じトートを白い部屋から雨の入口へ移しています。
 
@@ -344,11 +440,83 @@ Qwen Image 3.0 · 画像編集 · 1K · 3:4
 
 Beatra で生成 · タスク task_mcp_62d074025fb6e065bd7b0dd4d9aa80f40e72ca97, task_mcp_1cf17a60d29c226d916229738e6b7dff99576ed7
 
+### 18. カップとペンを外した机
+
+前後の比較で、Qwen Image 3.0 が机の写真からカップとペンを外しています。
+
+<p align="center"><img src="assets/q35.webp" width="800" alt="左は胡桃の机です。開いたノート、真鍮のはさみ、クリーム色のカップと黒いペン二本があります。右はカップとペンがなく、ノートとはさみは残っています。入力写真も Beatra AI で生成しています。"></p>
+
+*左は胡桃の机です。開いたノート、真鍮のはさみ、クリーム色のカップと黒いペン二本があります。右はカップとペンがなく、ノートとはさみは残っています。入力写真も Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 でこの机の写真を編集して。クリーム色のカップと黒いペン二本を外して。胡桃の机、開いたノート、真鍮のはさみ、カメラの角度はそのまま。
+```
+
+プロンプト：
+
+```text
+Keep the walnut desk, the open blank notebook, the brass scissors, the window light, and the same camera angle. Remove the cream ceramic cup and both black pens completely. Do not add new objects. No text, no logos, no watermark, no hands.
+```
+
+Qwen Image 3.0 · 画像編集 · 2K · 4:3
+
+Beatra で生成 · タスク task_mcp_2e17ff31a1137a5896558ca57a247d1bdabf6198, task_mcp_e8eff740f4302717e414d1361b4f3faa077dab56
+
+### 19. 昼の路地を薄雪の夕方に
+
+前後の比較で、Qwen Image 3.0 が夏の路地を薄い雪の夕方に変えています。建物はそのままです。
+
+<p align="center"><img src="assets/q36.webp" width="800" alt="左は明るい夏の昼の路地です。右は同じ路地の夕方です。道端と歩道に薄い雪があり、窓と街灯が灯っていて、窓辺の花箱には緑の葉が残っています。入力写真も Beatra AI で生成しています。"></p>
+
+*左は明るい夏の昼の路地です。右は同じ路地の夕方です。道端と歩道に薄い雪があり、窓と街灯が灯っていて、窓辺の花箱には緑の葉が残っています。入力写真も Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 でこの路地の写真を編集して。建物、鎧戸、扉、自転車、カメラはそのまま。夕方にして。道端と歩道に薄い雪、窓と街灯は灯して。
+```
+
+プロンプト：
+
+```text
+Keep the exact same cobblestone lane, the same plaster buildings, shutters, doors, bicycle, and camera position. Change only the season and time of day to a snowy evening: blue hour, warm window light, a light covering of snow on the street and ledges, falling snow. No people, no cars, no readable signs, no letters, no logos, no watermark.
+```
+
+Qwen Image 3.0 · 画像編集 · 2K · 16:9
+
+Beatra で生成 · タスク task_mcp_7b7da46f37b24ab2619dc76ac34abddffdd2abc7, task_mcp_a36f684023317a21916a2df525593b22e69b611c
+
+### 20. 看板が南窗纸店に
+
+前後の比較で、Qwen Image 3.0 が店の看板の四文字を替えています。
+
+<p align="center"><img src="assets/q37.webp" width="800" alt="左の看板は青石书屋です。右は同じ店で、看板が南窗纸店に変わっています。扉、窓、鉢のシダはそのままです。入力写真も Beatra AI で生成しています。"></p>
+
+*左の看板は青石书屋です。右は同じ店で、看板が南窗纸店に変わっています。扉、窓、鉢のシダはそのままです。入力写真も Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 でこの店先の写真を編集して。看板の四文字を青石书屋から南窗纸店に。扉、窓、鉢のシダ、カメラはそのまま。
+```
+
+プロンプト：
+
+```text
+Keep the dark green wooden storefront, the hanging wooden sign shape, the closed door, the potted fern, and the same camera. Change only the four cream characters on the sign from 青石书屋 to exactly 南窗纸店, perfectly spelled, and no other letters. No people, no logos, no watermark, no extra text.
+```
+
+Qwen Image 3.0 · 画像編集 · 2K · 3:4
+
+Beatra で生成 · タスク task_mcp_047d4b47b255ce306027120018abdd0150ad19af, task_mcp_f99ea4c0f8f6408eb3c78d66ec27e7afcc0174e9
+
 <a id="multi-reference"></a>
 
 ## 複数の参照から一枚
 
-### 14. ソース瓶とキャンドルを並べる
+### 21. ソース瓶とキャンドルを並べる
 
 一枚の静物で、Qwen Image 3.0 が二枚の参照写真のソース瓶とキャンドルを一つにしています。
 
@@ -372,7 +540,7 @@ Qwen Image 3.0 · 画像から画像 · 1K · 4:3
 
 Beatra で生成 · タスク task_mcp_0fefd99194c4683cedb0377d60ab5d3d3d473b03
 
-### 15. ベーカリー前のレインコートの狐
+### 22. ベーカリー前のレインコートの狐
 
 一枚の挿絵で、Qwen Image 3.0 がレインコートの狐を、二枚目の参照にあるベーカリーの前に置いています。
 
@@ -396,7 +564,7 @@ Qwen Image 3.0 · 画像から画像 · 1K · 16:9
 
 Beatra で生成 · タスク task_mcp_7957b46f4d4f13057b8c97786dd8a3382aeab804
 
-### 16. スニーカーとトートを同じ部屋に
+### 23. スニーカーとトートを同じ部屋に
 
 一枚のカタログ写真で、Qwen Image 3.0 が二枚の参照の靴と袋を同じ場面に入れています。
 
@@ -420,11 +588,59 @@ Qwen Image 3.0 · 画像から画像 · 1K · 1:1
 
 Beatra で生成 · タスク task_mcp_d02521534c3ce35bd12feb25516421ec17716239
 
+### 24. 錆色のコートを着た女性
+
+スタジオの肖像で、Qwen Image 3.0 が一枚目の参照の女性に、二枚目の参照のコートを着せています。
+
+<p align="center"><img src="assets/q38.webp" width="800" alt="短い黒髪と黒いタートルネックの女性が、錆色のウールコートを着ています。参照写真も Beatra AI で生成しています。"></p>
+
+*短い黒髪と黒いタートルネックの女性が、錆色のウールコートを着ています。参照写真も Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 に人物の写真と錆色のウールコートの写真を渡して。そのコートをボタンを外したまま着せて。顔、短い黒髪、黒いタートルネックは残して。
+```
+
+プロンプト：
+
+```text
+A photoreal studio portrait of the woman from the first image wearing the rust wool overcoat from the second image. Keep her face, short black hair, and black turtleneck recognizable. The coat is on her, unbuttoned, same rust color and lapels. Plain warm-grey studio, even soft light, three-quarter view, hands visible and anatomically correct. No text, no logos, no watermark.
+```
+
+Qwen Image 3.0 · 画像から画像 · 2K · 3:4
+
+Beatra で生成 · タスク task_mcp_22573ba199b5621c53651ace43f0ccfef57b6ee1, task_mcp_c42d709ecb959be103adb8c75ecf40acccf04181, task_mcp_f7231ab9c8f991dfab2029c068d5a0d780610b0c
+
+### 25. 厨房カウンターの黒いケトル
+
+厨房のカウンターで、Qwen Image 3.0 が一枚目の参照のケトルを、二枚目の参照の台に置いています。
+
+<p align="center"><img src="assets/q39.webp" width="800" alt="マットな黒いグースネックケトルが、日の当たる白いタイルの台にあり、木のまな板がそばにあります。参照写真も Beatra AI で生成しています。"></p>
+
+*マットな黒いグースネックケトルが、日の当たる白いタイルの台にあり、木のまな板がそばにあります。参照写真も Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 にケトルの写真と厨房の写真を渡して。マットな黒いグースネックケトルを、白いタイルの台の、木のまな板の近くに置いて。
+```
+
+プロンプト：
+
+```text
+Place the matte-black gooseneck kettle from the first image on the sunlit white-tile kitchen counter from the second image, near the wood cutting board. Keep the kettle's round body, long curved spout, and wood handle. Keep the window, sheer curtains, and morning light. No people, no logos, no readable text, no watermark.
+```
+
+Qwen Image 3.0 · 画像から画像 · 2K · 16:9
+
+Beatra で生成 · タスク task_mcp_d362b0190e4253225116f164a93d479113c81f01, task_mcp_b9f89ed177cabe7341189d1e19edfee43a8536a0, task_mcp_1407f1dbee504b8160d8a0fb1f84bd15cea1101d
+
 <a id="illustration"></a>
 
 ## イラストと画風
 
-### 17. 平面の在宅ワーク挿絵
+### 26. 平面の在宅ワーク挿絵
 
 平面の机の挿絵で、Qwen Image 3.0 Pro が文字のない単純な場面を描いています。
 
@@ -448,7 +664,7 @@ Qwen Image 3.0 Pro · テキストから画像 · 358×421
 
 Beatra で生成 · タスク task_mcp_38f1a34bf6fc493f7b65440ecef6925365d29b83
 
-### 18. 嵐の灯台、人物なし
+### 27. 嵐の灯台、人物なし
 
 灯台のコンセプト画面で、Qwen Image 3.0 Pro が人物のない映画のような風景を描いています。
 
@@ -472,7 +688,7 @@ Qwen Image 3.0 Pro · テキストから画像 · 421×421
 
 Beatra で生成 · タスク task_mcp_af531ac21ea594fd04515e5c14f314ba434cf716
 
-### 19. 平面のベーカリー外観
+### 28. 平面のベーカリー外観
 
 平面のベーカリーで、Qwen Image 3.0 が限られた色数の、文字のない挿絵を描いています。
 
@@ -496,7 +712,7 @@ Qwen Image 3.0 · テキストから画像 · 1K · 16:9
 
 Beatra で生成 · タスク task_mcp_5b98f2ff025529cf8e05e8c226daa12afbfce7a7
 
-### 20. ガッシュの夜行列車
+### 29. ガッシュの夜行列車
 
 ガッシュの夜行列車で、Qwen Image 3.0 が風景を絵の具で描いています。
 
@@ -520,7 +736,7 @@ Qwen Image 3.0 · テキストから画像 · 1K · 16:9
 
 Beatra で生成 · タスク task_mcp_352beec571cea8b1cdb58f6633f0acb9a6418ff8
 
-### 21. 色鉛筆のレインコートの狐
+### 30. 色鉛筆のレインコートの狐
 
 色鉛筆のレインコートの狐で、Qwen Image 3.0 がオリジナルのキャラクターを描いています。
 
@@ -544,11 +760,35 @@ Qwen Image 3.0 · テキストから画像 · 1K · 1:1
 
 Beatra で生成 · タスク task_mcp_733218bdb6a7c5919f298dc0a4dba9650e049834
 
+### 31. アイソメのレコード店内
+
+アイソメのレコード店で、Qwen Image 3.0 が限られた色で、読める文字のない店内を描いています。
+
+<p align="center"><img src="assets/q40.webp" width="800" alt="アイソメのレコード店です。木のカウンター、レコード箱、鉢植え、天窓があります。ジャケットは色面と単純な図形です。Beatra AI で生成しています。"></p>
+
+*アイソメのレコード店です。木のカウンター、レコード箱、鉢植え、天窓があります。ジャケットは色面と単純な図形です。Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 でアイソメのレコード店を描いて。木のカウンター、レコード箱、鉢植え一つ、天窓。ジャケットは単色か単純な図形。文字はなし。
+```
+
+プロンプト：
+
+```text
+Isometric illustration of a tiny fictional record-shop interior, limited flat colors. One wooden counter, wooden vinyl crates, a potted plant, a skylight, no people. Every album sleeve is a solid color or a simple geometric shape with no letters, no numbers, no logos, and no readable marks of any kind. Clean vector-like isometric, generous margin.
+```
+
+Qwen Image 3.0 · テキストから画像 · 2K · 1:1
+
+Beatra で生成 · タスク task_mcp_acaac2206d1b6265deae510ba885de52453ad466
+
 <a id="portraits"></a>
 
 ## 架空の肖像
 
-### 22. 架空のプレゼンター、バストアップ
+### 32. 架空のプレゼンター、バストアップ
 
 スタジオのバストアップで、Qwen Image 3.0 Pro が架空のプレゼンターを、自然な顔立ちで描いています。
 
@@ -572,7 +812,7 @@ Qwen Image 3.0 Pro · テキストから画像 · 616×829
 
 Beatra で生成 · タスク task_mcp_181a7bf4c51b51ae1271bc4d433b8d1fa0b8df4a
 
-### 23. 編集後のカフェの肖像
+### 33. 編集後のカフェの肖像
 
 近景の肖像で、Qwen Image 3.0 の編集が架空の顔からプラスチックのような見た目を取り除いています。
 
@@ -596,7 +836,7 @@ Qwen Image 3.0 · 画像編集 · 618×824
 
 Beatra で生成 · タスク task_mcp_36cb6399c5ce443a72f54b7af67ccdb44f0a8509
 
-### 24. 架空のパン職人、バストアップ
+### 34. 架空のパン職人、バストアップ
 
 パン屋の肖像で、Qwen Image 3.0 が架空の男性の顔、目、耳を描いています。
 
@@ -620,7 +860,7 @@ Qwen Image 3.0 · テキストから画像 · 1K · 3:4
 
 Beatra で生成 · タスク task_mcp_8de96b9bab4a153e27256b13bbd85807db73f963
 
-### 25. 砂利道の架空の自転車乗り
+### 35. 砂利道の架空の自転車乗り
 
 道の肖像で、Qwen Image 3.0 が架空の自転車乗りと、ハンドルを握る手を描いています。
 
@@ -644,11 +884,35 @@ Qwen Image 3.0 · テキストから画像 · 1K · 3:4
 
 Beatra で生成 · タスク task_mcp_b71e0d1eaf675f21f1d281f69271be4c381d85ce
 
+### 36. 窓辺の架空の陶芸家
+
+陶芸アトリエの肖像で、Qwen Image 3.0 が窓のそばに座る架空の年配の女性を描いています。
+
+<p align="center"><img src="assets/q41.webp" width="800" alt="銀髪で、リネンのエプロンをした架空の年配の女性が、陶芸アトリエのろくろのそばに座っています。Beatra AI で生成しています。"></p>
+
+*銀髪で、リネンのエプロンをした架空の年配の女性が、陶芸アトリエのろくろのそばに座っています。Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Qwen Image 3.0 で架空の年配の女性を。銀髪をまとめ、チャコールのシャツにリネンのエプロン、アトリエの窓のそばでろくろの横に座っている。文字はなし。
+```
+
+プロンプト：
+
+```text
+Photoreal three-quarter portrait of a fictional woman in her early seventies, silver hair pinned up, clay-dusted linen apron over a charcoal shirt, sitting beside a pottery wheel near a north-facing studio window, pale daylight, lined natural skin, closed mouth, hands resting on her lap with clay under the nails, anatomically correct. Quiet pottery studio, shelves of unglazed bowls behind her, slightly out of focus. No text, no logos, no watermark.
+```
+
+Qwen Image 3.0 · テキストから画像 · 2K · 3:4
+
+Beatra で生成 · タスク task_mcp_9172f0aa9846821eda365d9ead249487c5c681ea
+
 <a id="infographics"></a>
 
 ## 図解とチャート
 
-### 26. お茶の4ステップカード
+### 37. お茶の4ステップカード
 
 四ステップのお茶カードで、Qwen Image 3.0 が二言語のラベルと四つのアイコンを一列に置いています。
 
@@ -672,7 +936,7 @@ Qwen Image 3.0 · テキストから画像 · 2K · 16:9
 
 Beatra で生成 · タスク task_mcp_1f837487611da4da304c2d0a851e9b023a23562e
 
-### 27. 一週間の杯数の棒グラフ
+### 38. 一週間の杯数の棒グラフ
 
 五本の棒の図で、Qwen Image 3.0 が決まった数値と曜日のラベルを置いています。
 
@@ -696,7 +960,7 @@ Qwen Image 3.0 · テキストから画像 · 2K · 16:9
 
 Beatra で生成 · タスク task_mcp_63bf1dc9e44ba4061c53a28af507bb91cf582c27
 
-### 28. シダの世話の3列カード
+### 39. シダの世話の3列カード
 
 三列の世話カードで、Qwen Image 3.0 がラベルだけを残し、他は空白にしています。
 
@@ -720,7 +984,7 @@ Qwen Image 3.0 · テキストから画像 · 2K · 16:9
 
 Beatra で生成 · タスク task_mcp_f2655d171c89420621e41849d0a73120a4d51468
 
-### 29. Pollen Trail の模式図
+### 40. Pollen Trail の模式図
 
 小道の模式図で、Qwen Image 3.0 がラベル付きの道を描き、余分な語を入れていません。
 
